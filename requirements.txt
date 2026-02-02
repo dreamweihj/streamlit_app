@@ -1,19 +1,11 @@
-# requirements.txt - 兼容 Python 3.13 的版本
-streamlit==1.28.0
+streamlit @ file:///C:/b/abs_84p_54gim8/croot/streamlit_1724335176234/work
+langchain==1.2.7
+langchain-community==0.4.1
+langchain-core==1.2.7
+chromadb==1.4.1
+langchain-chroma==1.1.0
+zhipuai==2.1.5.20250825
+pypdf==6.6.0
+python-dotenv @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/python-dotenv_1699475097728/work
+tiktoken==0.12.0
 
-# LangChain 相关 - 使用最新兼容版本
-langchain==0.1.17
-langchain-core==0.1.45
-langchain-community==0.0.34
-
-# 向量数据库 - 使用可用版本
-langchain-chroma==0.2.6
-chromadb==0.4.24
-
-# 智谱AI
-zhipuai==2.3.1
-
-# 其他
-pypdf==3.17.4
-python-dotenv==1.0.0
-tiktoken==0.7.0
